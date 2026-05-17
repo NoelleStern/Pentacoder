@@ -1,0 +1,37 @@
+@import 'tailwindcss';
+@plugin 'daisyui' {
+  logs: false;
+}
+
+
+:root {
+  --content-padding: 25px;
+  --content-width: 960px;
+  --gap: 1rem;
+}
+
+div.view {
+  background-color: var(--color-base-300);
+}
+
+div.content {
+  margin: auto; /* isn't centered otherwise */
+  max-width: var(--content-width);
+  border-radius: var(--radius-box); /* Inherits border radius from DaisyUI theme */
+  min-height: 100vh; /* Sets minimum height to window height */
+}
+
+div.app {
+  padding: var(--content-padding);
+  height: 100vh; /* Window height minus bottom padding */
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
