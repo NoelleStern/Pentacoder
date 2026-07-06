@@ -9,7 +9,8 @@ Initially it was a simple command line Python tool, but I wanted to make it more
 ![Sample Pentacode preview](./public/images/MeowCode.gif)<br>
 [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)<br>
+[![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)
+[![PWA](https://img.shields.io/badge/pwa-%235a06c9.svg?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/explore/progressive-web-apps)<br>
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 
