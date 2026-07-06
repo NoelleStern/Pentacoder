@@ -6,7 +6,7 @@ Pentacode as a format is inherently web and punk. Initially it wasn't supposed t
 
 Initially it was a simple command line Python tool, but I wanted to make it more pleasant to use and more accessible in general. And so I rewrote it in TypeScript.
 
-![Sample Pentacode preview](./public/MeowCode.gif)<br>
+![Sample Pentacode preview](./public/images/MeowCode.gif)<br>
 [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)<br>
